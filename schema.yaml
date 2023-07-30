@@ -1,1 +1,16 @@
-key: value
+
+
+COLUMNS:
+  cement: float64
+  slag: float64
+  flyash: float64
+  water: float64
+  superplasticizer: float64
+  coarseaggregate: float64
+  fineaggregate: float64
+  age: int64
+  csMPa: float64
+
+
+TARGET_COLUMN:
+  name: csMPA
