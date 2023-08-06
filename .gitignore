@@ -161,7 +161,7 @@ cython_debug/
 
 
 template.py
-ConcreteStrength/
+ConcreteStrengthenv/
 research/
 logs/
 artifacts/
