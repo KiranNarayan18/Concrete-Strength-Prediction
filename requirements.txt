@@ -10,7 +10,7 @@ tqdm
 ensure==1.0.2
 joblib
 types-PyYAML
-sklearn
+scikit-learn
 Flask
 Flask-Cors
 -e .
